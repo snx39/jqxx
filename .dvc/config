@@ -1,0 +1,7 @@
+[core]
+    remote = local
+['remote "myazure"']
+    url = azure://dvc
+    account_name = wut2026
+['remote "local"']
+    url = D:\dvc-remote-storage
